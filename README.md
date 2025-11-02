@@ -2,7 +2,7 @@
 ## Java Full Stack Developer
 **Phone**: (937) 582-6088    
 **E-Mail**: [akshaykatla4@gmail.com](mailto:akshaykatla4@gmail.com)   
-**[LinkedIn](https://www.linkedin.com/in/akshay-k6088/)** | **[Resume](./Akshay Katla Resume.docx)** | **[GitHub](https://github.com/AkshayKatla)** | **[Medium](https://medium.com/@akshaykatla4)**
+**[LinkedIn](https://www.linkedin.com/in/akshay-k6088/)** | **[Resume](./Akshay_Katla_Resume.pdf)** | **[GitHub](https://github.com/AkshayKatla)** | **[Medium](https://medium.com/@akshaykatla4)**
 
 
 ## About Me
