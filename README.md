@@ -7,27 +7,27 @@
 
 ## About Me
 
-I am a **Full-Stack Developer** with over **five years** of experience in building scalable web applications using **Java, Spring Boot, and React.js**. I specialize in developing high-performance **backend services, RESTful APIs, and microservices**, while creating interactive and responsive **front-end applications**.  
+I am a Java Full Stack Developer with over 6 years of experience in designing, developing, and deploying enterprise-scale applications using Java, Spring Boot, React.js, and cloud-native technologies. My expertise spans backend microservices, RESTful & GraphQL APIs, and modern front-end architectures with React.js and TypeScript.
 
-With expertise in **database management (MySQL, PostgreSQL)**, **cloud deployment (AWS, Docker, Kubernetes)**, and **security (OAuth 2.0, JWT, Spring Security)**, I ensure efficient, secure, and maintainable solutions. I have also worked with **CI/CD pipelines, real-time data streaming, and data visualization** to enhance application performance.  
+I specialize in building secure, scalable, and real-time enterprise systems for financial, healthcare, and e-commerce domains — leveraging AWS, GCP, Docker, Kubernetes, and CI/CD automation for continuous delivery. With proven success in data streaming (Kafka, RabbitMQ), data visualization (Chart.js, D3.js), and AI-driven coding (GitHub Copilot), I focus on delivering high-performance, maintainable, and business-driven solutions.
 
-Passionate about problem-solving and collaboration, I thrive in **Agile environments**, working closely with teams to deliver robust, user-friendly applications.
+Passionate about solving complex problems and working in Agile teams, I take pride in delivering secure, reliable, and innovative applications that align technology with business goals.
 
 ---
 
 ## Techical Skills
 
 ### Frontend:
-- React.js, Redux, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap
+- React.js, Redux, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
 
 ### Backend:
-- Java, Spring Boot, Spring MVC, Spring Security, RESTful APIs, Microservices
+- Java (Spring Boot, Spring MVC, Spring Security), RESTful APIs, Microservices Architecture, GraphQL
 
 ### Cloud & Deployment:
-- AWS(EC2, S3, RDS, Lambda), Docker, Kubernetes, Heroku, CI/CD(Jenkins, GitHub Actions, Azure DevOps)
+- AWS (EC2, S3, RDS, Lambda, API Gateway), GCP (Cloud SQL, GKE, Pub/Sub), Docker, Kubernetes, Jenkins, GitHub Actions, Azure DevOps
 
 ### Database:
-- MySQL, PostgreSQL, MongoDB, Hibernate, JPA
+- MySQL, PostgreSQL, MongoDB, Oracle, SQL Server, Hibernate, JPA
 
 ### Authentication & Security:
 - JWT, OAuth2, Role-Based Access Control (RBAC), Spring Security, CSRF Protection
@@ -39,7 +39,7 @@ Passionate about problem-solving and collaboration, I thrive in **Agile environm
 - JUnit, Mockito, Selenium
 
 ### Tools & Others:
-- Git, GitHub, Bitbucket, GitLab, Maven, Gradle, Swagger, Postman
+- Git, GitHub, Bitbucket, Maven, Gradle, Swagger, Postman, Agile (Scrum), TDD, SOLID, CI/CD Pipelines
 
 ---
 
@@ -47,22 +47,22 @@ Passionate about problem-solving and collaboration, I thrive in **Agile environm
 
 ### **Real-Time Portfolio Tracker**   
 
-**Tech Stack**: React.js, Spring Boot, WebSockets, AWS, JWT     
-A real-time portfolio tracking application using **React.js** (Frontend) and **Spring Boot** (Backend), featuring **live updates** via WebSockets.
+**Tech Stack**: React.js, Spring Boot, WebSockets, Kafka, AWS, JWT
+Built a real-time financial tracking application using React.js and Spring Boot microservices, integrating WebSockets and Kafka for instant portfolio updates. Deployed on AWS (EC2, S3, RDS, Lambda) with secure JWT-based authentication, enabling 50K+ daily transactions with 35% reduced API latency.
 
 ---
 
 ### **Healthcare Claims Management System**     
 
-**Tech Stack**: React.js, Spring Boot, Kafka, AWS, Docker, Kubernetes      
-A healthcare claims system built with **Spring Boot** and **React.js**, leveraging **Kafka** for fraud detection and deployed on **AWS** with **Docker** and **Kubernetes**.
+**Tech Stack**: React.js, Spring Boot, Kafka, AWS, Docker, Kubernetes   
+Developed a HIPAA-compliant claims management platform using Spring Boot and React.js, leveraging Kafka for asynchronous claims processing and fraud detection. Deployed using Docker/Kubernetes on AWS; achieved a 40% improvement in claims processing speed and 90%+ test coverage.
 
 ---
 
 ### **E-Commerce Catalog System**     
 
-**Tech Stack**: Spring Boot, React.js, JWT, AWS     
-An e-commerce platform for product management and cart functionality with **JWT-based authentication** and deployed on **AWS**.
+**Tech Stack**: Spring Boot, React.js, AWS, JWT, PostgreSQL
+Engineered a cloud-hosted product catalog and order management system with Spring Boot microservices, React.js frontend, and AWS RDS + S3 integration. Implemented Spring Security with JWT for customer authentication and secure API access.
 
 ---
 
@@ -75,12 +75,12 @@ An e-commerce platform for product management and cart functionality with **JWT-
   <img src="https://1000logos.net/wp-content/uploads/2021/05/PwC-logo.png" alt="PwC Logo" width="120">
 </p>
 
-- Designed and developed a full-stack financial application for real-time portfolio tracking.
-- Developed the frontend using React.js and the backend using Java Spring Boot.
-- Integrated RESTful APIs and WebSockets for real-time market updates.
-- Deployed applications using AWS services like EC2, S3, and RDS.
-- Implemented secure authentication with Spring Security and JWT.
-- Followed Agile methodologies, participating in daily stand-ups, sprint planning, and code reviews.
+- Designed and developed financial portfolio management systems with React.js and Spring Boot microservices.
+- Built secure RESTful APIs and implemented JWT authentication with Spring Security for data protection.
+- Leveraged WebSockets & Kafka for real-time financial updates and notifications.
+- Deployed cloud-native applications on AWS (EC2, S3, RDS, Lambda, API Gateway).
+- Automated CI/CD pipelines using Jenkins and GitHub Actions, cutting release times from 3 hours to 20 minutes.
+- Enhanced performance, reducing API latency by 35% across 50K+ daily transactions.
 
 
 ---
